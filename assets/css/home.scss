@@ -13,8 +13,8 @@
   padding-right: 0.5rem;
 
   .post-preview {
-    padding-top: 1.5rem;
-    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
     border-bottom: 1px solid var(--main-border-color);
 
     h1 {
@@ -46,6 +46,7 @@
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
+        line-height: 1.5rem;
       }
     }
 
